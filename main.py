@@ -117,7 +117,7 @@ toma.tomatoes[0].get_info()
 toma.grow_all()
 toma.all_are_ripe()
 print(len(toma.tomatoes))
-# toma.tomatoes[1].get_info()
+toma.tomatoes[1].get_info()
 # toma.all_are_ripe()
 
 toma_1 = TomatoBush(2)
